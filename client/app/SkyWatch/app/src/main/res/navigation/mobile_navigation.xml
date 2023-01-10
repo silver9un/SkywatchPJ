@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_number"
+        android:name="com.moon.skywatch.NumberFragment"
+        android:label="@string/menu_number"
+        tools:layout="@layout/fragment_number" />
+
+    <fragment
+        android:id="@+id/nav_live"
+        android:name="com.moon.skywatch.LiveFragment"
+        android:label="@string/menu_live"
+        android:screenOrientation="landscape"
+        tools:layout="@layout/fragment_live"/>
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.moon.skywatch.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_position"
+        android:name="com.moon.skywatch.PositionFragment"
+        android:label="@string/menu_position"
+        tools:layout="@layout/fragment_position" />
+    <fragment
+        android:id="@+id/nav_drone"
+        android:name="com.moon.skywatch.DroneFragment"
+        android:label="@string/menu_drone"
+        tools:layout="@layout/fragment_drone" />
+    <fragment
+        android:id="@+id/nav_report"
+        android:name="com.moon.skywatch.ReportFragment"
+        android:label="@string/menu_report"
+        tools:layout="@layout/fragment_report" />
+</navigation>

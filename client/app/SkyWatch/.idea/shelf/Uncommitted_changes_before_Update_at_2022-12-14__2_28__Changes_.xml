@@ -1,0 +1,374 @@
+<changelist name="Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]" date="1670995683557" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2022-12-14 오후 2:28 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/LiveFragment$1$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/LiveFragment$1$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/LiveFragment$1$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/PositionFragment.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/PositionFragment.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/PositionFragment.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.4/executionHistory/executionHistory.lock" />
+    <option name="AFTER_PATH" value=".gradle/7.4/executionHistory/executionHistory.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/executionHistory.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/FragmentPositionBinding.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/FragmentPositionBinding.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/FragmentPositionBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/914359e7f240d8624194a6fef0a973ab5b1d837e145a428d1394104ae2b52100_3.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/drawable-v24_live_d.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/drawable-v24_live_d.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/drawable-v24_live_d.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/NumberFragment.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/NumberFragment.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/NumberFragment.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/2e2f17820e558fc628c0421a87543df7e552554a07b57b883b50bf8cb038bb00_1.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/ActivityNav2Binding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/ActivityNav2Binding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/ActivityNav2Binding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/PositionFragment.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/PositionFragment.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/PositionFragment.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/Nav2Activity$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/Nav2Activity$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/Nav2Activity$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/2e2f17820e558fc628c0421a87543df7e552554a07b57b883b50bf8cb038bb00_2.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/apk/debug/app-debug.apk" />
+    <option name="AFTER_PATH" value="app/build/intermediates/apk/debug/app-debug.apk" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/app-debug.apk" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/FragmentNumberBinding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/FragmentNumberBinding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/FragmentNumberBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/AppBarNav2Binding.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/AppBarNav2Binding.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/AppBarNav2Binding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/TempleteBinding.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/TempleteBinding.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/TempleteBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/buildOutputCleanup.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" />
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/androidResources" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/DirectViewHolder.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/DirectViewHolder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/DirectViewHolder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/PositionFragment$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/PositionFragment$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/PositionFragment$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.4/executionHistory/executionHistory.bin" />
+    <option name="AFTER_PATH" value=".gradle/7.4/executionHistory/executionHistory.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/executionHistory.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/CarDataViewHolder.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/CarDataViewHolder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/CarDataViewHolder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/914359e7f240d8624194a6fef0a973ab5b1d837e145a428d1394104ae2b52100_1.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/NumberFragment.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/NumberFragment.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/NumberFragment.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/ReportFragment.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/ReportFragment.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/ReportFragment.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/ActivityAddBinding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/ActivityAddBinding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/ActivityAddBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/ActivitySplashBinding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/ActivitySplashBinding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/ActivitySplashBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/NavHeaderNav2Binding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/NavHeaderNav2Binding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/NavHeaderNav2Binding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/TempleteBinding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/TempleteBinding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/TempleteBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/ActivityMainBinding.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/ActivityMainBinding.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/ActivityMainBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/processed_res/debug/out/resources-debug.ap_" />
+    <option name="AFTER_PATH" value="app/build/intermediates/processed_res/debug/out/resources-debug.ap_" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/resources-debug.ap_" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/LiveFragment.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/LiveFragment.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/LiveFragment.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex_archive_input_jar_hashes/debug/out" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex_archive_input_jar_hashes/debug/out" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" />
+    <option name="AFTER_PATH" value="app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/R.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/FragmentHomeBinding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/FragmentHomeBinding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/FragmentHomeBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/ReportFragment.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/ReportFragment.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/ReportFragment.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/CarlisttempleteBinding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/CarlisttempleteBinding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/CarlisttempleteBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/MainActivity.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/MainActivity.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/MainActivity.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/LiveFragment.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/LiveFragment.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/LiveFragment.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" />
+    <option name="AFTER_PATH" value="app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/previous-compilation-data.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/2e2f17820e558fc628c0421a87543df7e552554a07b57b883b50bf8cb038bb00_0.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/FragmentLiveBinding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/FragmentLiveBinding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/FragmentLiveBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/classes.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/Nav2Activity.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/Nav2Activity.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/Nav2Activity.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.4/fileHashes/resourceHashesCache.bin" />
+    <option name="AFTER_PATH" value=".gradle/7.4/fileHashes/resourceHashesCache.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/resourceHashesCache.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/2e2f17820e558fc628c0421a87543df7e552554a07b57b883b50bf8cb038bb00_3.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/AddActivity.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/AddActivity.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/AddActivity.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/ActivityMainBinding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/ActivityMainBinding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/ActivityMainBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.4/fileHashes/fileHashes.lock" />
+    <option name="AFTER_PATH" value=".gradle/7.4/fileHashes/fileHashes.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/fileHashes.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/CarDataViewHolder.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/CarDataViewHolder.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/CarDataViewHolder.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/15/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/classes1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/drawable-v24_live_s.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/drawable-v24_live_s.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/drawable-v24_live_s.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/FragmentPositionBinding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/FragmentPositionBinding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/FragmentPositionBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/Nav2Activity.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/Nav2Activity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/Nav2Activity.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/FragmentLiveBinding.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/FragmentLiveBinding.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/FragmentLiveBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/LiveFragment$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/LiveFragment$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/LiveFragment$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/AppBarNav2Binding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/AppBarNav2Binding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/AppBarNav2Binding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/FragmentReportBinding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/databinding/FragmentReportBinding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/FragmentReportBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/FragmentReportBinding.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/FragmentReportBinding.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/FragmentReportBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/FragmentNumberBinding.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/FragmentNumberBinding.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/FragmentNumberBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/LiveFragment$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/LiveFragment$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/LiveFragment$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/drawable_live_w.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/drawable_live_w.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/drawable_live_w.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/classes2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/DirectViewHolder.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/DirectViewHolder.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/DirectViewHolder.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/drawable-v24_live_a.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/drawable-v24_live_a.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/drawable-v24_live_a.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/7.4/fileHashes/fileHashes.bin" />
+    <option name="AFTER_PATH" value=".gradle/7.4/fileHashes/fileHashes.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/fileHashes.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/layout-land_fragment_live.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/layout-land_fragment_live.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/layout-land_fragment_live.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/914359e7f240d8624194a6fef0a973ab5b1d837e145a428d1394104ae2b52100_0.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/CarlisttempleteBinding.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/CarlisttempleteBinding.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/CarlisttempleteBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/LiveFragment$1$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/LiveFragment$1$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/LiveFragment$1$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/ActivityNav2Binding.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/moon/skywatch/databinding/ActivityNav2Binding.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/ActivityNav2Binding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/PositionFragment$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/PositionFragment$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/PositionFragment$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/Nav2Activity$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/moon/skywatch/Nav2Activity$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-14_오후_2_28_[Changes]/Nav2Activity$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/914359e7f240d8624194a6fef0a973ab5b1d837e145a428d1394104ae2b52100_2.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+</changelist>

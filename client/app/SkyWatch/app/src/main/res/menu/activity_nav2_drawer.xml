@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_live"
+            android:icon="@drawable/ic_baseline_video_library_24"
+            android:title="@string/menu_live" />
+        <item
+            android:id="@+id/nav_position"
+            android:icon="@drawable/ic_loc"
+            android:title="@string/menu_position" />
+        <item
+            android:id="@+id/nav_number"
+            android:icon="@drawable/ic_number"
+            android:title="@string/menu_number" />
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/ic_call"
+            android:title="@string/menu_report" />
+        <item
+            android:id="@+id/nav_drone"
+            android:icon="@drawable/ic_d"
+            android:title="@string/menu_drone" />
+    </group>
+</menu>

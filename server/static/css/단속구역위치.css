@@ -1,0 +1,37 @@
+/* 전자정부 웹사이트 */
+.government_site{
+	background-color: #071831;
+	height: 40px;
+}
+
+.government{
+	position: relative;
+	text-align: center;
+	padding-top: 10px;
+
+	color: white;
+	font-size: 13px;
+}
+
+
+/* 중간폼 */
+#divForm{
+	border: 2px solid black;
+	margin: 20px;
+}
+
+
+/* footer부분 */
+footer {
+	background-color: #3b3b3b;
+	height: 40px;
+}
+
+
+.copyright{
+  padding-top: 9px;
+	text-align: center;
+	color: rgb(202, 200, 200);
+	font-size: 13px;
+	font-weight:300;
+}

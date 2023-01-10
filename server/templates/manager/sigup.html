@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{# 임시적으로 데이터베이스 연결비교해서 잘되었는지 확인해야함 #}
+{% block content %}
+<section id="about" class="light-bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div>
+                    {# action 기준에 따라서 login_views, main 결정
+                    예를 들어 /login_select_query 일경우 main.py 으로 감 따라서 /singup/하니 login.views 으로 감#}
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <form method="POST", action="/singup/login_singup_query">
+                        아이디 : <input type = "text" name="sigup_id"><br>
+                        비밀번호:<input type="password" name="sigup_pw"><br>
+                        드론이름: <input type="text" name = "sigup_droneName"><br>
+                        <input type="submit" name = "sumbit">
+                    </form>
+                    </div>
+                {{ No_welcome }}
+            </div>
+        </div>
+    </div>
+    <!-- /.container -->
+</section>
+{% endblock %}
+
+
+
+

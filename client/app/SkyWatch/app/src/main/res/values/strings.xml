@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SkyWatch</string>
+    <string name="title_activity_nav2">Nav2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">홈</string>
+    <string name="menu_live">실시간 영상</string>
+    <string name="menu_position">단속구역 위치</string>
+    <string name="menu_number">단속번호판</string>
+    <string name="menu_report">긴급상황 신고</string>
+    <string name="menu_drone">드론관리</string>
+    <string name="angle_0">angle : 0</string>
+    <string name="strength_0">strength : 0</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+    </style>
+</resources>

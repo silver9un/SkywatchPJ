@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+{% block head %}
+<link rel="stylesheet" href="{{url_for('static',filename='css/실시간영상1.css')}}"/>
+{% endblock %}
+
+{% block content %}
+<body>
+<section class="py-5">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+                <div class="col mb-5">
+                        <div class="card h-100">
+                            <!-- Product image-->
+                            <br>
+                            드론 와이파이 연결해주시고 다시 실행하시면됩니다.
+                            그리고 조그만 기다리주시면 실시간화면 박스 나타날 예정
+
+                            <img class="card-img-top" src="{{ url_for('features.video_feed') }}"/>
+                            <!-- Product details-->
+                            <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    <h5 class="fw-bolder"></h5>
+                                    <!-- Product price-->
+                                </div>
+                            </div>
+                            <!-- Product actions-->
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="#">저장</a>
+                                    <br>
+                                <a href="{{ url_for('features.takeOff') }}",target="_self"><button>takeoff</button></a>
+                                <a href="{{ url_for('features.Land')}}",target="_self"><button>Land</button></a>
+                                <a href="{{ url_for('features.Forward')}}",target="_self"><button>forward</button></a>
+                                <a href="{{ url_for('features.Back')}}",target="_self"><button>back</button></a>
+                                <a href="{{ url_for('features.Right')}}",target="_self"><button>right</button></a>
+                                <a href="{{ url_for('features.Left')}}",target="_self"><button>left</button></a>
+                                <br>
+                                <a href="{{ url_for('features.Rotate_clockwise')}}",target="_self"><button>회전</button></a>
+                                <a href="{{ url_for('features.Rotate_counter_clockwise')}}",target="_self"><button>반회전</button></a>
+                                <a href="{{ url_for('features.drone_move_A')}}",target="_self"><button>드론 A구역 이동</button></a>
+                                <br>
+                                {{ drone_state }}
+                                </div>
+                            </div>
+                        </div>
+                </div>
+
+<!--                <a href="{{ url_for('features.Flip')}}",target="_self">filb</a>-->
+<!--                <a href="{{ url_for('features.Flip_left')}}",target="_self">filb_left</a>-->
+<!--                <a href="{{ url_for('features.Flip_right')}}",target="_self">filb_right</a>-->
+<!--                <a href="{{ url_for('features.Flip_forward')}}",target="_self">filb_forward</a>-->
+<!--                <a href="{{ url_for('features.Flip_back')}}",target="_self">filb_back</a>-->
+
+
+        </div>
+    </div>
+</section>
+</body>
+</html>
+{% endblock %}
+{#                <-- input이 폼안에서 들어가있어야하는듯-->#}
+<!--                <input type="button" value="상" onclick="location.href={{ url_for('features.takeOff') }}" formtarget="_self">상</input>-->
+<!--                <input type="submit" value="하" href="{{ url_for('features.Land') }}" formtarget="_self">하</input>-->
+<!--                <input type="submit" value="왼쪽" href="{{ url_for('features.Left') }}"formtarget="_self">왼쪽</input>-->
+<!--                <input type="submit" value="오른쪽" href="{{ url_for('features.Right') }}"formtarget="_self">오른쪽</input>-->
+<!--                <input type="submit" value="앞쪽" href="{{ url_for('features.Forward') }}"formtarget="_self">앞쪽</input>-->
+<!--                <input type="submit" value="뒤쪽" href="{{ url_for('features.Back') }}"formtarget="_self">뒤쪽</input>-->

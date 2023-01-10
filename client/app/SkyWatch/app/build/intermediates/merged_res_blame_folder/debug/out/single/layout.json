@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\fragment_number.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\fragment_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\app_bar_nav2.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\app_bar_nav2.xml"
+    },
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\fragment_drone.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\fragment_drone.xml"
+    },
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\nav_header_nav2.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\nav_header_nav2.xml"
+    },
+    {
+        "merged": "com.moon.skywatch.app-mergeDebugResources-45:/layout/carlisttemplete.xml",
+        "source": "com.moon.skywatch.app-main-48:/layout/carlisttemplete.xml"
+    },
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\fragment_report.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\fragment_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\fragment_position.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\fragment_position.xml"
+    },
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\content_nav2.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\content_nav2.xml"
+    },
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\fragment_live.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\fragment_live.xml"
+    },
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\activity_add.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\carlisttemplete.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\carlisttemplete.xml"
+    },
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\templete.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\templete.xml"
+    },
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\activity_nav2.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\activity_nav2.xml"
+    },
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout\\fragment_home.xml"
+    }
+]

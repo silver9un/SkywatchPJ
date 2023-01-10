@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/iv_droneView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/drone_nav_bar1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/btn_droneLeft"
+        android:layout_width="60dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="16dp"
+        android:background="@drawable/live_a"
+        android:text="◀"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/btn_droneBack"
+        app:layout_constraintEnd_toStartOf="@+id/btn_droneBack"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_droneForward"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/btn_droneForward"
+        android:layout_width="60dp"
+        android:layout_height="45dp"
+        android:layout_marginBottom="44dp"
+        android:background="@drawable/live_w"
+        android:text="▲"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/btn_droneBack"
+        app:layout_constraintEnd_toEndOf="@+id/btn_droneBack"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/btn_droneBack" />
+
+    <Button
+        android:id="@+id/btn_droneBack"
+        android:layout_width="60dp"
+        android:layout_height="45dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/live_s"
+        android:text="▼"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_droneView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.113"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btn_droneRight"
+        android:layout_width="60dp"
+        android:layout_height="45dp"
+        android:background="@drawable/live_d"
+        android:text="▶"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/btn_droneBack"
+        app:layout_constraintStart_toEndOf="@+id/btn_droneBack"
+        app:layout_constraintTop_toBottomOf="@+id/btn_droneForward"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageView
+        android:id="@+id/iv_droneCw"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        app:layout_constraintBottom_toTopOf="@+id/iv_droneDown"
+        app:layout_constraintEnd_toStartOf="@+id/iv_droneDown"
+        app:layout_constraintTop_toBottomOf="@+id/iv_droneUp"
+        app:srcCompat="@drawable/ic_right" />
+
+    <ImageView
+        android:id="@+id/iv_droneDown"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.85"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/ic_down" />
+
+    <ImageView
+        android:id="@+id/iv_droneUp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="40dp"
+        app:layout_constraintBottom_toTopOf="@+id/iv_droneDown"
+        app:layout_constraintEnd_toEndOf="@+id/iv_droneDown"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/iv_droneDown"
+        app:srcCompat="@drawable/ic_up" />
+
+    <ImageView
+        android:id="@+id/iv_droneTakeOff"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/upload" />
+
+    <ImageView
+        android:id="@+id/iv_droneLand"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_droneTakeOff"
+        app:layout_constraintStart_toEndOf="@+id/iv_droneTakeOff"
+        app:layout_constraintTop_toTopOf="@+id/iv_droneTakeOff"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/download" />
+
+    <ImageView
+        android:id="@+id/iv_droneCcw"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        app:layout_constraintBottom_toTopOf="@+id/iv_droneDown"
+        app:layout_constraintStart_toEndOf="@+id/iv_droneDown"
+        app:layout_constraintTop_toBottomOf="@+id/iv_droneUp"
+        app:srcCompat="@drawable/ic_left" />
+
+    <ImageView
+        android:id="@+id/iv_droneCap"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_droneLand"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.954"
+        app:layout_constraintStart_toEndOf="@+id/iv_droneLand"
+        app:layout_constraintTop_toTopOf="@+id/iv_droneLand"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/ic_menu_camera" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

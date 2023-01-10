@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-mergeDebugResources-45:\\layout-land\\fragment_live.xml",
+        "source": "C:\\Users\\smhrd\\.gradle\\daemon\\7.4\\com.moon.skywatch.app-main-48:\\layout-land\\fragment_live.xml"
+    },
+    {
+        "merged": "com.moon.skywatch.app-mergeDebugResources-45:/layout-land/fragment_live.xml",
+        "source": "com.moon.skywatch.app-main-48:/layout-land/fragment_live.xml"
+    }
+]

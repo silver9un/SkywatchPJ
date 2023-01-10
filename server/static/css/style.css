@@ -1,0 +1,543 @@
+
+/* main font for menu. */
+@import url(http://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900);
+/* font for headings, text, tags */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800);
+
+/*--------------------
+Color customizations
+change these colors to change overlays
+--------------------*/
+
+.mz-module:hover .ot-circle.color1 {
+	color: #C54A4A;
+}
+.mz-module:hover .ot-circle.color2 {
+	color: #FCBE03;
+}
+.mz-module:hover .ot-circle.color3 {
+	color: #6EB377;
+}
+.mz-module:hover .ot-circle.color4 {
+	color: #5347ff;
+}
+
+
+body {
+	margin: 0px;
+	font-family: "Open Sans", Sans-serif;
+}
+
+/* 페이지설명 */
+.government_site{
+	background-color: #071831;
+	height: 40px;
+}
+
+.government{
+	position: relative;
+	text-align: center;
+	padding-top: 10px;
+
+	color: white;
+	font-size: 13px;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	font-weight: 300;
+	line-height: 23px;
+	letter-spacing: 0.2px;
+	color: #353535;
+}
+
+
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+
+@media (min-width: 768px) {
+	section {
+		padding: 150px 0;
+	}
+}
+
+/* 네비바 홈 피쳐 컨텍 */
+ul {
+	padding-top: 28px;
+}
+
+/*--------------------
+2. Navigation
+--------------------*/
+
+.navbar-default {
+	background-color: #fff;
+	border-color: transparent
+}
+.navbar-default .navbar-brand {
+	color: #fff;
+	font-family: "Open Sans",sans-serif;
+	padding: 0px;
+	margin-left: 10px;
+}
+
+.navbar-default .nav li a {
+	font-family: "Open Sans",sans-serif;
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	color: #444448;
+}
+.navbar-default .nav li a:hover,.navbar-default .nav li a:focus {
+	color: #000000;
+	font-size: 18px;
+}
+
+
+
+/*--------------------
+3. Header
+--------------------*/
+
+header {
+    margin-top: 80px;
+}
+
+.owl-slider-item {
+	position: relative;
+	background-color: #000;
+	height: 850px;
+}
+.owl-slider-item img {
+	opacity: 0.7;
+}
+.owl-slider .owl-controls {
+	position: absolute;
+	left: 0;
+	top: 45%;
+	width: 99.9%;	
+}
+
+.owl-slider .owl-controls .owl-nav [class*=owl-] {
+	padding: 30px 40px;
+	background: rgba(0, 0, 0, 0.26);
+	margin: 0;
+	font-size: 25px;
+	z-index: 1000;
+}
+
+.owl-slider .owl-controls .owl-nav [class*=owl-]:hover {
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+}
+
+.owl-slider .owl-controls .owl-prev {
+	float: left;
+}
+
+.owl-slider .owl-controls .owl-next {
+	float: right;
+}
+
+.intro-text {
+	padding-top: 100px;
+	padding-bottom: 50px;
+	position: absolute;
+	top: 50px;
+    text-align: center;
+	transform: translateX(-50%);
+	left: 50%;
+}
+
+@media (min-width: 768px) {
+	.intro-text {
+		padding-top: 230px;
+		padding-bottom: 400px;
+    }
+}
+
+.intro-text .intro-lead-in {
+	display: inline-block;
+	margin-bottom: 25px;
+	padding: 4px 20px;
+	font-family: "Open Sans",sans-serif;
+	font-size: 19px;
+	color: #fff;
+	font-weight: 100;
+	line-height: 40px;
+}
+
+@media (min-width: 768px) {
+	.intro-text .intro-lead-in {
+    font-size: 50px;
+    line-height: 40px;
+    margin-bottom: 45px;
+	}
+}
+
+.intro-text .intro-heading {
+	font-weight: 900;
+	font-size: 40px;
+	line-height: 48px;
+	margin-bottom: 25px;
+	letter-spacing: -3px;
+	word-spacing: 10px;
+	color: #FFFFFF;
+	text-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
+
+@media (min-width: 768px) {
+	.intro-text .intro-heading {
+		line-height: 95px;
+		font-size: 77px;
+		margin-bottom: 50px;
+	}
+}
+
+/*--------------------
+4. Sections
+--------------------*/
+
+.section-title h2 {
+	font-size: 50px;
+	color: #000000;
+	font-weight: 900;
+	letter-spacing: -0.6px;
+	position: relative;
+	margin: 0 0 50px 0;
+	padding-bottom: 15px;
+}
+
+.section-title h2:after {
+	left: 50%;
+	z-index: 1;
+	width: 60px;
+	height: 3px;
+	content: " ";
+	bottom: -5px;
+	margin-left: -30px;
+	text-align: center;
+	position: absolute;
+	background: #D4D4D4;
+}
+
+.dark-bg .section-title h2 {
+	color: #000000;
+}
+
+
+.section-title p {
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 31px;
+	margin: 20px 100px 60px 100px;
+}
+
+/*--------------------
+4.1. About
+--------------------*/
+
+.mz-module {
+	position: relative;
+	margin-bottom: 40px;
+	align-items: center;
+}
+
+.mz-module-about {
+    border: 1px solid #8d8c8c;
+    min-height: 280px;
+    padding: 30px;
+    background-color: #f1f1f1;
+}
+
+.mz-module-about h3 {
+	font-weight: 600;
+	font-size: 20px;
+	/* text-transform: uppercase; */
+	color: #424242;
+	/* letter-spacing: 2px; */
+	margin-bottom: 30px;
+}
+
+.dark-bg .mz-module-about h3 {
+	color: #FFFFFF;
+}
+
+.mz-module-about p {
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 22px;
+	color: #474747;
+}
+.mz-module-button {
+	background-color: #d1d1d1;
+	padding: 15px;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	display: block;
+	position: absolute;
+	bottom: 0px;
+	left: 0;
+	right: 0;
+	opacity: 0;
+	-webkit-transition:all .3s;
+	-moz-transition:all .3s;
+	transition:all .3s;
+}
+.mz-module:hover .mz-module-button {
+	bottom: -45px;
+	opacity: 1;
+}
+.mz-module-button:hover {
+	background-color:#6091DC;
+	color: #fff;
+	text-decoration: none;
+}
+
+.mz-module-button {
+	color: black;
+	padding: 16px;
+	text-decoration: none;
+	display: block;
+}
+
+.ot-circle {
+	height: 95px;
+	width: 95px;
+	text-align: center;
+	line-height: 98px;
+	color: #FFFFFF;
+	margin: 0 2px 4px;
+	font-size: 75px;
+
+	-webkit-transition:all .3s;
+	-moz-transition:all .3s;
+	transition:all .3s;
+}
+
+
+
+.featured-item {
+	margin-bottom: 30px;
+	height: 110px;
+}
+
+.featured-icon {
+	float: left;
+	font-size: 22px;
+	border-radius: 5px;
+	width: 55px;
+	height: 55px;
+	background-color: #F8F8F8;
+	line-height: 50px;
+	text-align: center;
+}
+.featured-text {
+	text-align: left;
+	margin-left: 85px;
+}
+.featured-text h4 {
+	color: #000000;
+	font-size: 17px;
+	font-weight: 700;
+}
+.featured-text p {
+	color: #000000;
+	margin-top: 7px;
+	font-size: 13px;
+	line-height: 21px;
+	font-weight: 500;
+}
+#pp{
+	font-size: 18px;
+}
+
+/*--------------------
+4.4. 소통연락 부분 백그라운드
+--------------------*/
+
+.light-bg{
+	background-color: #f8f8f8;
+}
+
+.news-bg{
+	background-color: rgb(247, 242, 233);
+}
+
+.dark-bg{
+	background-color: #f8f8f8;
+	color: rgb(0, 0, 0);
+}
+
+.dark-bg p {
+	color: #000000;	
+}
+	
+.short-section {
+	border-top: 1px solid #5D5D5F;
+	border-bottom: 1px solid #5D5D5F;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.counter-item h2 {
+	color: #fff;
+	font-size: 60px;
+	font-weight: 900;
+}
+
+.counter-item h6 {
+	color: #FFF;
+	font-size: 16px;
+	font-weight: 700;
+	margin: 10px 0 0 0;
+	text-transform: uppercase;
+}
+
+/*--------------------
+4.7. 소통/연락
+--------------------*/
+
+section#contact .form-group input, section#contact .form-group textarea {
+	padding: 15px;
+	border: 1px solid rgb(80, 80, 80);
+	border-radius: 0;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+	box-shadow: inset 0 0px 0px rgba(0,0,0,.075);
+	font-size: 13px;
+}
+
+.contact p {
+	font-size: 13px;
+}
+
+.contact .day {
+	display: flex;
+	width: 80px;
+}
+
+.contact i {
+	margin-right: 5px;
+}
+
+.section-text p{
+	font-weight:400
+}
+
+/*--------------------
+7. 정보공개 버튼 호버
+--------------------*/
+
+.btn-xl:hover, .btn-xl:focus, .btn-xl:active, .btn-xl.active, .open .dropdown-toggle.btn-xl {
+	color: #fff;
+	background-color: #dfdfdf;
+	border-color: #dfdfdf;
+}
+
+.btn:hover, .btn:focus, .btn:active, .btn.active, .open .dropdown-toggle.btn {
+	color: rgb(0, 0, 0);
+	background-color:#6091DC;
+	border-color: #dfdfdf;
+}
+
+.btn {
+	display: inline-block;
+	padding: 8px 20px;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 1.42857143;
+	text-align: center;
+	vertical-align: middle;
+	-ms-touch-action: manipulation;
+	touch-action: manipulation;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	background-image: none;
+	border: 1px solid transparent;
+	border-radius: 0px;
+	background-color:#d6d3d3;
+}
+
+
+
+@media only screen
+and (min-width : 320px)
+and (max-width : 480px) {
+#back-top {
+	position: fixed;
+	bottom: 10px;
+	right: 30px;
+}
+#back-top a {
+	width: 40px;
+	height: 40px;
+}
+#back-top i {
+	margin-top: 7px;
+	font-size: 20px;
+}
+}
+
+
+/* 지정 CSS list */
+
+.navbar-header{
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+
+
+/*--------------------
+지정 css의 Footer
+--------------------*/
+footer {
+	background-color: #3b3b3b;
+	height: 200px;
+}
+
+.copyright{
+	text-align: center;
+	color: rgb(202, 200, 200);
+	font-size: 13px;
+	font-weight:300;
+}
+
+/* 태극기 중심 이미지 */
+#copyImg{
+	display: flex;
+	list-style: none;
+	margin-left: 720px;
+}
+
+.footer_info_ul{
+	list-style: none;
+	text-align: center;
+}
+
+.footer_info_ul li{
+	display: inline-block;
+    font-size: 14px;
+	padding-top: 0px;
+	padding-bottom: 7px;
+}
+
+/* 영상정보처리기기 운영/관리방침 */
+#drone_operate{
+	color: #eed600;
+}
+
+
+.footer_info_ul li a {
+    display: block;
+    color: #aeaeae;
+    padding: 5px 10px;
+}

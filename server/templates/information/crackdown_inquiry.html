@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block head %}
+{{"decoupled-map"|googlemap_js(35.149681,126.919929, varname="decoupledmap", markers=[(35.149681,126.919929)])}}{{clickmap.js}}
+<!--<meta http-equiv="refresh" content = "5">-->
+<link rel="stylesheet" href="{{url_for('static',filename='css/단속구역위치.css')}}">
+{% endblock %}
+
+
+{% block content %}
+<body>
+<section id="about" class="light-bg">
+    <div class="container">
+        <div id="divForm">
+                <h2> 원하는 지역 4개의 마커 찍으세요</h2>
+{#                googleMap_api 이런거 상관없이 그냥 출력해주는것인데 mysql 어떻게 가져올것인지#}
+
+{#                {% with multimap=googlemap_obj("another-map", 35.149681,126.91992,#}
+{#                       marker = [])%}#}
+
+{#                전에는 with으로 인해 mysql 어떻게 가져올수있는지 이해안갔지만 이번에는 api_함수로인해 가져올수있다는 사실이 있다#}
+{#                따라서 굳이 with안써도 {{ multimap.html }} 써도 된다.#}
+
+                    {{clickmap.html}}
+                    {{clickmap.js}}
+
+                    {% for i in message_results%}
+                        {{i}}
+                    {% endfor %}
+            <div class="text-center">
+                <input type="submit" value="단속 구역 시작">
+                </div>
+
+{#                {% endwith %}#}
+{#                {{ gmap.html }}#}
+
+        </div>
+    </div>
+</section>
+    <footer>
+    <div class="copyright">
+        ⓒ copyright SkyWatch. 2022 drones SkyWatch. All Rights Reserved.
+    </div>
+    </footer>
+</body>
+</html>
+{% endblock %}

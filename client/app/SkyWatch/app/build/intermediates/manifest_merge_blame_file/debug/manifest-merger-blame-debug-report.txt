@@ -1,0 +1,198 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.moon.skywatch"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.CALL_PHONE" />
+14-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:8:5-69
+14-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:8:22-66
+15
+16    <!-- Include required permissions for Google Maps API to run. -->
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\77f14a6df3d89474b2fa24a53d9c91f9\transformed\play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+17-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\77f14a6df3d89474b2fa24a53d9c91f9\transformed\play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
+18
+19    <uses-feature
+19-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\77f14a6df3d89474b2fa24a53d9c91f9\transformed\play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+20        android:glEsVersion="0x00020000"
+20-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\77f14a6df3d89474b2fa24a53d9c91f9\transformed\play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+21        android:required="true" />
+21-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\77f14a6df3d89474b2fa24a53d9c91f9\transformed\play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+22
+23    <queries>
+23-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\77f14a6df3d89474b2fa24a53d9c91f9\transformed\play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+24
+25        <!-- Needs to be explicitly declared on Android R+ -->
+26        <package android:name="com.google.android.apps.maps" />
+26-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\77f14a6df3d89474b2fa24a53d9c91f9\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+26-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\77f14a6df3d89474b2fa24a53d9c91f9\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+27    </queries>
+28
+29    <application
+29-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:10:5-56:19
+30        android:allowBackup="true"
+30-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:11:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.8.0] C:\Users\smhrd\.gradle\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+32        android:dataExtractionRules="@xml/data_extraction_rules"
+32-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:12:9-65
+33        android:debuggable="true"
+34        android:fullBackupContent="@xml/backup_rules"
+34-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:13:9-54
+35        android:icon="@mipmap/ic_launcher"
+35-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:14:9-43
+36        android:label="@string/app_name"
+36-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:15:9-41
+37        android:networkSecurityConfig="@xml/network_security_config"
+37-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:21:9-69
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:16:9-54
+39        android:supportsRtl="true"
+39-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:17:9-35
+40        android:testOnly="true"
+41        android:theme="@style/Theme.SkyWatch"
+41-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:18:9-46
+42        android:usesCleartextTraffic="true" >
+42-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:19:9-44
+43        <activity
+43-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:22:9-35:20
+44            android:name="com.moon.skywatch.SplashActivity"
+44-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:23:13-43
+45            android:exported="true"
+45-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:24:13-36
+46            android:theme="@style/Theme.SkyWatch.NoActionBar" >
+46-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:25:13-62
+47            <meta-data
+47-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:26:13-28:36
+48                android:name="android.app.lib_name"
+48-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:27:17-52
+49                android:value="" />
+49-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:28:17-33
+50
+51            <intent-filter>
+51-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:30:13-34:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:31:17-69
+52-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:31:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:33:17-77
+54-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:33:27-74
+55            </intent-filter>
+56        </activity>
+57        <activity
+57-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:36:9-44:20
+58            android:name="com.moon.skywatch.Nav2Activity"
+58-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:37:13-41
+59            android:exported="false"
+59-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:38:13-37
+60            android:label="@string/title_activity_nav2"
+60-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:39:13-56
+61            android:theme="@style/Theme.SkyWatch.NoActionBar" >
+61-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:40:13-62
+62            <meta-data
+62-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:26:13-28:36
+63                android:name="android.app.lib_name"
+63-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:27:17-52
+64                android:value="" />
+64-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:28:17-33
+65        </activity>
+66        <activity
+66-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:45:9-52:20
+67            android:name="com.moon.skywatch.MainActivity"
+67-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:46:13-41
+68            android:exported="false"
+68-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:47:13-37
+69            android:theme="@style/Theme.SkyWatch.NoActionBar" >
+69-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:48:13-62
+70            <meta-data
+70-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:26:13-28:36
+71                android:name="android.app.lib_name"
+71-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:27:17-52
+72                android:value="" />
+72-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:28:17-33
+73        </activity>
+74
+75        <meta-data
+75-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:54:9-55:70
+76            android:name="com.google.android.geo.API_KEY"
+76-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:54:20-65
+77            android:value="AIzaSyAWi8FHRM2NwaRsJlzXmS-Chs661XreXcA" />
+77-->C:\Users\smhrd\Desktop\Skywatch\client\app\SkyWatch\app\src\main\AndroidManifest.xml:55:13-68
+78        <!-- Needs to be explicitly declared on P+ -->
+79        <uses-library
+79-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\77f14a6df3d89474b2fa24a53d9c91f9\transformed\play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+80            android:name="org.apache.http.legacy"
+80-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\77f14a6df3d89474b2fa24a53d9c91f9\transformed\play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+81            android:required="false" />
+81-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\77f14a6df3d89474b2fa24a53d9c91f9\transformed\play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+82
+83        <activity
+83-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\75e11374b42ba83fd12d55e4ccb129ba\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+84            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+84-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\75e11374b42ba83fd12d55e4ccb129ba\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+85            android:exported="false"
+85-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\75e11374b42ba83fd12d55e4ccb129ba\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+86            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+86-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\75e11374b42ba83fd12d55e4ccb129ba\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+87
+88        <meta-data
+88-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\22101baaa08a513511d2fe6a33f29de4\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+89            android:name="com.google.android.gms.version"
+89-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\22101baaa08a513511d2fe6a33f29de4\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+90            android:value="@integer/google_play_services_version" />
+90-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\smhrd\.gradle\caches\transforms-3\22101baaa08a513511d2fe6a33f29de4\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+91
+92        <provider
+92-->[androidx.emoji2:emoji2:1.2.0] C:\Users\smhrd\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+93            android:name="androidx.startup.InitializationProvider"
+93-->[androidx.emoji2:emoji2:1.2.0] C:\Users\smhrd\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+94            android:authorities="com.moon.skywatch.androidx-startup"
+94-->[androidx.emoji2:emoji2:1.2.0] C:\Users\smhrd\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+95            android:exported="false" >
+95-->[androidx.emoji2:emoji2:1.2.0] C:\Users\smhrd\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+96            <meta-data
+96-->[androidx.emoji2:emoji2:1.2.0] C:\Users\smhrd\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+97                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+97-->[androidx.emoji2:emoji2:1.2.0] C:\Users\smhrd\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+98                android:value="androidx.startup" />
+98-->[androidx.emoji2:emoji2:1.2.0] C:\Users\smhrd\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+99            <meta-data
+99-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\smhrd\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+100                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+100-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\smhrd\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+101                android:value="androidx.startup" />
+101-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\smhrd\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+102        </provider>
+103
+104        <uses-library
+104-->[androidx.window:window:1.0.0] C:\Users\smhrd\.gradle\caches\transforms-3\073f10b23065a04cd4c659168bad23fb\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+105            android:name="androidx.window.extensions"
+105-->[androidx.window:window:1.0.0] C:\Users\smhrd\.gradle\caches\transforms-3\073f10b23065a04cd4c659168bad23fb\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+106            android:required="false" />
+106-->[androidx.window:window:1.0.0] C:\Users\smhrd\.gradle\caches\transforms-3\073f10b23065a04cd4c659168bad23fb\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+107        <uses-library
+107-->[androidx.window:window:1.0.0] C:\Users\smhrd\.gradle\caches\transforms-3\073f10b23065a04cd4c659168bad23fb\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+108            android:name="androidx.window.sidecar"
+108-->[androidx.window:window:1.0.0] C:\Users\smhrd\.gradle\caches\transforms-3\073f10b23065a04cd4c659168bad23fb\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+109            android:required="false" />
+109-->[androidx.window:window:1.0.0] C:\Users\smhrd\.gradle\caches\transforms-3\073f10b23065a04cd4c659168bad23fb\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+110    </application>
+111
+112</manifest>

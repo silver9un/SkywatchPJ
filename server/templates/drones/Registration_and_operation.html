@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+{% block head %}
+<link rel="stylesheet" href="{{url_for('static',filename='css/번호판조회.css')}}"/>
+{% endblock %}
+
+
+{% block content %}
+<section class="py-5">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+                <form method="POST" action="{{ url_for('drone_registration.drone_register') }}">
+                    <input type="submit" name = "register" value="A 구역 드론 통신 등록">
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                        <div class="card-body p-4">
+                                <div class="text-center">
+                                    {{ result_A }}
+                                    <!-- Product name-->
+                                    <h5 class="fw-bolder"></h5>
+                                    <!-- Product price-->
+                                </div>
+                        </div>
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="./">확인하기</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+                <form method="POST" action="{{ url_for('drone_registration.drone_register') }}">
+                    <input type="submit" name = "register" value="B 구역 드론 통신 등록">
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                        <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    {{ result_B }}
+                                    <h5 class="fw-bolder"></h5>
+                                    <!-- Product price-->
+                                </div>
+                        </div>
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="./">확인하기</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+
+                <form method="POST" action="{{ url_for('drone_registration.drone_register') }}">
+                    <input type="submit" name = "register" value="C 구역 드론 통신 등록">
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                        <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    {{ result_C }}
+                                    <h5 class="fw-bolder"></h5>
+                                    <!-- Product price-->
+                                </div>
+                        </div>
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="./">확인하기</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+                <form method="POST" action="{{ url_for('drone_registration.drone_register') }}">
+                    <input type="submit" name = "register" value="D 구역 드론 통신 등록">
+                    <div class="col mb-5">
+                        <div class="card h-100">
+                        <div class="card-body p-4">
+                                <div class="text-center">
+                                    <!-- Product name-->
+                                    {{ result_D }}
+                                    <h5 class="fw-bolder"></h5>
+                                    <!-- Product price-->
+                                </div>
+                        </div>
+                            <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="./">확인하기</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+        </div>
+    </div>
+</section>
+{% endblock %}

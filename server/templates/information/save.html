@@ -1,0 +1,53 @@
+
+{% extends "base.html" %}
+{% block head %}
+<link rel="stylesheet" href="{{url_for('static',filename='css/번호판조회.css')}}"/>
+{% endblock %}
+{% block content %}
+<section class="py-5">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+                    <br>
+                    <form method="POST" action="{{url_for('car_num_saveView.car_dateQuery')}}">
+                        <input type="date" id="date" value="date" name="date"><input type="submit" value="불러오기">
+                    </form>
+                        {% for obj in data_list %}
+                        <div class="col mb-5">
+                            <div class="card h-100">
+                            <img class="card-img-top" src = "{{ url_for('static',filename = obj.parking) }}" width="250" height="250">
+                            <div class="card-body p-4">
+                                    <div class="text-center">
+                                        <!-- Product name-->
+                                        <h5 class="fw-bolder"></h5>
+                                        <!-- Product price-->
+                                    </div>
+                            </div>
+                                <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                    <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="./">확인하기</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col mb-5">
+                            <div class="card h-100">
+                            <img class="card-img-top" src = "{{ url_for('static',filename = obj.numplate) }}" width="250" height="250">
+                            <div class="card-body p-4">
+                                    <div class="text-center">
+                                        <!-- Product name-->
+                                        <h5 class="fw-bolder"></h5>
+                                        <!-- Product price-->
+                                    </div>
+                            </div>
+                                <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                                    <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="./">확인하기</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                        <!-- Product actions-->
+        </div>
+    </div>
+</section>
+
+</body>
+</html>
+{% endblock %}
